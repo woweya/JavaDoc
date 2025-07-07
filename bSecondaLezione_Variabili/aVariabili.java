@@ -1,5 +1,5 @@
 //* File: SecondaLezione_Variabili/aVariabili.java
-package SecondaLezione_Variabili;
+package bSecondaLezione_Variabili;
 
 
 /**

@@ -1,4 +1,4 @@
-package vQuintaLezione_StringMethods;
+package eQuintaLezione_StringMethods;
 
 /** 
  * ! Java 05: String Methods

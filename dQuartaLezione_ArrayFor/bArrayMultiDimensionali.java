@@ -1,4 +1,4 @@
-package uQuartaLezione_ArrayFor;
+package dQuartaLezione_ArrayFor;
 
 /**
  * ! Java 04: Array Multidimensionali

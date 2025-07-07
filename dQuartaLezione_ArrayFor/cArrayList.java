@@ -1,4 +1,4 @@
-package uQuartaLezione_ArrayFor;
+package dQuartaLezione_ArrayFor;
 
 import java.util.ArrayList;
 
@@ -45,11 +45,7 @@ public class cArrayList {
             listaNomi.add("Bob"); // Aggiunge "Bob" all'ArrayList
             listaNomi.add("Charlie"); // Aggiunge "Charlie" all'ArrayList
 
-        /** -------------------------------------------------------------------------------- */
-
         //* Stampa degli elementi dell'ArrayList
-        /** -------------------------------------------------------------------------------- */
-
             System.out.println("Elementi dell'ArrayList:");
             for (String nome : listaNomi) {
                 System.out.println(nome); // Stampa ogni nome nell'ArrayList
@@ -96,10 +92,9 @@ public class cArrayList {
                 }
             }
             
-        /** -------------------------------------------------------------------------------- */
 
         //* Stampa degli elementi dell'ArrayList dopo la rimozione e la modifica
-        /** -------------------------------------------------------------------------------- */
+
 
             System.out.println("Elementi dell'ArrayList dopo la rimozione e la modifica:");
             for (String nome : listaNomi) {

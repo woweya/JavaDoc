@@ -1,4 +1,4 @@
-package TerzaLezione_UserInput;
+package cTerzaLezione_UserInput;
 
 /**
     *!  Java 03: User Input

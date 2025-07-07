@@ -1,4 +1,4 @@
-package SecondaLezione_Variabili;
+package bSecondaLezione_Variabili;
 
 /**
  * ! Java 03: Tipi di Dati primitive e reference
